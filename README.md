@@ -83,7 +83,7 @@ Certifique-se de ter instalado:
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/Heloisa-Oliveira1/Saquadot.git
+git clone https://github.com/Sergio003/Saquadot.git
 cd saquadot
 
 # 2. Criar e ativar o ambiente virtual
