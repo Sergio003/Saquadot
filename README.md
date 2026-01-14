@@ -2,7 +2,13 @@
 
 > Um sistema web desenvolvido para facilitar o processo de **adoção responsável de animais**, conectando cuidadores e adotantes de forma simples, segura e intuitiva.
 
+![Saquadot_demonstração](https://github.com/user-attachments/assets/a85d8d06-1082-45f6-85a3-c5c81a6ab7fc)
+
+
+
+
 ---
+
 
 ## 📋 Sumário  
 1. [Visão Geral](#visão-geral-)  
