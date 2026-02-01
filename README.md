@@ -4,7 +4,7 @@
 
 ![Saquadot_demonstração](https://github.com/user-attachments/assets/a85d8d06-1082-45f6-85a3-c5c81a6ab7fc)
 
-
+## [Download](https://github.com/Sergio003/Saquadot/archive/refs/heads/main.zip)
 
 
 ---
